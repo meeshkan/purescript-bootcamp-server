@@ -1,0 +1,1 @@
+web: npx spago run
